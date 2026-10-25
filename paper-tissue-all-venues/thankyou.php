@@ -18,7 +18,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['email'])) {
     }
 
     // Prepare email
-    $to      = "info@mxmexhibitions.com, mud@african-fairs.com, sherkhan@mxmexhibitions.com, sher@african-fairs.com";
+    $to      = "info@afro-fairs.com, info@mxmexhibitions.com, mud@african-fairs.com, sherkhan@mxmexhibitions.com, sher@african-fairs.com";
     $subject = "Paper Tissue Calendar 26-27 Inq";
     $today   = date("l, F j, Y, g:i a");
 
