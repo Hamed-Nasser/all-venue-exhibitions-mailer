@@ -35,7 +35,7 @@ Selected Expo(s): $expoList
 EOT;
 
     $headers = [
-        'From' => 'mud@african-fairs.com',
+        'From' => 'info@afro-fairs.com',
         'Reply-To' => $email,
         'Content-Type' => 'text/plain; charset=UTF-8',
     ];
